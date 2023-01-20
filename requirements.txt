@@ -6,4 +6,4 @@ selenium-wire
 git+https://github.com/sebdelsol/undetected-chromedriver
 # this is installed only on windows
 pywin32; sys_platform == "win32"
-tkinter
+tk
